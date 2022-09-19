@@ -1,0 +1,20 @@
+header, main {
+
+    
+    /* Somente pra centralizar tudo! */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    width: 80px;
+    
+}
+
+p{
+    text-align: center;
+    
+    
+}
